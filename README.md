@@ -1,5 +1,6 @@
 <div align="center">
 <h1>RPG - Dragon Repeller</h1>
+<p>Learn Basic Javascript by Building a Role Playing Game</p>
 </div>
 
 ## Welcome to RPG - Dragon Repeller
