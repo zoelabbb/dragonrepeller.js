@@ -1,0 +1,47 @@
+body {
+    background-color: #0a0a23;
+}
+
+#text {
+    background-color: #0a0a23;
+    color: #ffffff;
+    padding: 10px;
+}
+
+#game {
+    color: #ffffff;
+    max-width: 500px;
+    max-height: 400px;
+    background-color: #ffffff;
+    margin: 30px auto 0px auto;
+    padding: 10px;
+}
+
+#controls, #stats {
+    border: 1px solid #0a0a23;
+    color: #0a0a23;
+    padding: 5px;
+}
+
+#monsterStats {
+    /* hide your #monsterStats element with the display property. Do not change any of the other styling. */
+    display: none;
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+    padding: 5px;
+    background: #c70d0d;
+}
+
+.stat {
+    padding-right: 10px;
+}
+
+/*  you will need to add some styles for your buttons. Start by setting the cursor property to pointer. Then set the text color to #0a0a23 and the background-color to #feac32.
+Then set the background-image property to linear-gradient(#fecc4c, #ffac33). Lastly, set the border to 3px solid #feac32. */
+button {
+    cursor: pointer;
+    color: #0a0a23;
+    background-color: #feac32;
+    background-image: linear-gradient(#fecc4c, #ffac33);
+    border: 3px solid #feac32;
+}
